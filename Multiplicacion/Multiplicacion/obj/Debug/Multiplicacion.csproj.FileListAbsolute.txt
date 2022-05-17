@@ -1,0 +1,11 @@
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.exe.config
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.exe
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.pdb
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.csproj.AssemblyReference.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.Form1.resources
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.Properties.Resources.resources
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.csproj.GenerateResource.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.exe
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.pdb
