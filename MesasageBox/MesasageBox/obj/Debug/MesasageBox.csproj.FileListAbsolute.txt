@@ -1,0 +1,11 @@
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\bin\Debug\MesasageBox.exe.config
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\bin\Debug\MesasageBox.exe
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\bin\Debug\MesasageBox.pdb
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.csproj.AssemblyReference.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.Form1.resources
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.Properties.Resources.resources
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.csproj.GenerateResource.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.csproj.CoreCompileInputs.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.exe
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\MesasageBox\MesasageBox\obj\Debug\MesasageBox.pdb
