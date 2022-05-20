@@ -1,0 +1,17 @@
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\bin\Debug\net6.0-windows\VisorDeImagenesyEnlaces.exe
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\bin\Debug\net6.0-windows\VisorDeImagenesyEnlaces.deps.json
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\bin\Debug\net6.0-windows\VisorDeImagenesyEnlaces.runtimeconfig.json
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\bin\Debug\net6.0-windows\VisorDeImagenesyEnlaces.dll
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\bin\Debug\net6.0-windows\VisorDeImagenesyEnlaces.pdb
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.csproj.AssemblyReference.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.Form1.resources
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.csproj.GenerateResource.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.AssemblyInfoInputs.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.AssemblyInfo.cs
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.csproj.CoreCompileInputs.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.dll
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\refint\VisorDeImagenesyEnlaces.dll
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.pdb
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\VisorDeImagenesyEnlaces.genruntimeconfig.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\VisorDeImagenesyEnlaces\VisorDeImagenesyEnlaces\obj\Debug\net6.0-windows\ref\VisorDeImagenesyEnlaces.dll
