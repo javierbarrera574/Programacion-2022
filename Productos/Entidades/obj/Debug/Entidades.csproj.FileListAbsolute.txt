@@ -1,0 +1,6 @@
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Productos\Entidades\bin\Debug\Entidades.dll
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Productos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Productos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Productos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Productos\Entidades\obj\Debug\Entidades.dll
+C:\Users\DUO DINAMICO.DESKTOP-7USE28D.000\source\Programacion II\Productos\Entidades\obj\Debug\Entidades.pdb
